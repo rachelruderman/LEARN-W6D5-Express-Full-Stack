@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "ul974e",
+    "database": "efs_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "ul974e",
+    "database": "efs_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "ul974e",
+    "database": "efs_prod",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
